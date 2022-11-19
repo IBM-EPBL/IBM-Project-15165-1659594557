@@ -1,6 +1,6 @@
 💻IBM-EPBL/IBM-Project-15165-1659594557
 
-🤖 AI based discourse for Banking Industry
+AI based discourse for Banking Industry
 
 Technology: Artificial Intelligence
 

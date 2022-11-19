@@ -12,7 +12,7 @@ Team Leader: DEEPIKA R
 
 Team Members: DHIVYA N, KALAISELVI V, MADHU PRIYA P
 
-Project Link: 
+Project Link: https://github.com/Deepikaramesh-12
 
 Tasks
 
@@ -108,6 +108,8 @@ Use Entities, Intents, Dialogues
 Deploy skill to generate a preview link
 
 Services Used:
+
+Final Output
 
 IBM Watson Assistant
 
